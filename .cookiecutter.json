@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/soshimizutani/python-test",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Soshi Mizutani",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "soshi.mizutani@oist.jp",
+  "friendly_name": "Cookie Test",
+  "github_user": "soshi117",
+  "license": "MIT",
+  "package_name": "cookie_test",
+  "project_name": "cookie-test",
+  "version": "0.0.0"
+}
